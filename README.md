@@ -9,3 +9,8 @@ Contains the complete natural language specifications for the 20 designs.
 
 ### 2. Golden RTL implementations (folder 'rtl')
 RTL designs implemented according to the specifications, and have been verified as functional correct.
+
+## GPTs
+1. Spec Analyzer: https://chatgpt.com/g/g-EpVp3ojDD-spec-analyzer
+2. Signal Mapper: https://chatgpt.com/g/g-E4byy0LtL-signal-mapper
+3. SVA Generator: https://chatgpt.com/g/g-dd0TTkMCy-sva-generator
